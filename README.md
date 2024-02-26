@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm David Marín a.k.a 12-davm</h1>
-<h3 align="center">David is a passionate student from Spain, learning actually Java, PHP and Python.</h3>
+<h3 align="center">David is a passionate student from Spain, actually learning Java, PHP and Python.</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
