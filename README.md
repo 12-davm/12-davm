@@ -2,7 +2,7 @@
 
 <!-- ![MasterHead](https://github.com/12-davm/12-davm/blob/main/mainheader.gif)
 --->
-<h1 align="center">Hi 👋, I'm David Marín</h1>
+<h1 align="center">Hey there!👋, I'm David Marín</h1>
 <h3 align="center">David is a passionate student from Spain, actually learning Java, PHP and Python.</h3>
 
 * 📍  Based in Salamanca, Spain.
